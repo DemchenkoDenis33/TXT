@@ -1,0 +1,12 @@
+Person:
+  firstName Denys
+  lastName Demchenko
+  age 32year
+Pets:
+  mantis insect 2
+  ants 78
+  aquarium fish 5
+future desired salar:
+  at first 400$
+  in half a year 600-700$
+
