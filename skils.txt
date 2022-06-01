@@ -1,0 +1,9 @@
+Course program:
+ 1 Linux command line
+ 2 bash basics
+ 3 Building applications on Xcode
+ 4 Building Android Applications with Android Studio
+ 5 Mobile testing
+ 6 Dev Tools of web browsers
+ 7 What is JSON, XML. Their structure
+ 8 and so on
